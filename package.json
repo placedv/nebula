@@ -1,0 +1,15 @@
+{
+  "name": "nebula",
+  "version": "0.0.1",
+  "license": "MIT",
+  "main": "index.js",
+  "keywords": [
+    "google",
+    "campaign",
+    "manager",
+    "goofls",
+    "npm",
+    "package",
+    "react"
+  ]
+}
