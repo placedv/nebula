@@ -1,8 +1,9 @@
 {
-  "name": "nebula",
+  "name": "@placedv/nebula",
   "version": "0.0.1",
   "license": "MIT",
   "main": "index.js",
+  "repository": "https://github.com/placedv/nebula.git",
   "keywords": [
     "google",
     "campaign",
