@@ -1,4 +1,4 @@
-let nebula = {
+export let useNebula = {
     init: function (gtag = '') {
         this.gtag = gtag
     },
