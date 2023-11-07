@@ -1,16 +1,29 @@
 {
   "name": "@placedv/nebula",
-  "version": "0.0.2",
+  "version": "0.0.1",
   "license": "MIT",
-  "main": "index.js",
-  "repository": "https://github.com/placedv/nebula.git",
+  "main": "main.js",
+  "type": "module",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/placedv/nebula.git"
+  },
   "keywords": [
     "google",
-    "campaign",
-    "manager",
+    "cm360",
+    "ga4",
     "goofls",
-    "npm",
-    "package",
+    "nebula",
+    "nextjs",
     "react"
-  ]
+  ],
+  "description": "Unlock the Power of Data with Nebula! Seamlessly integrate CM360 and GA4 into your React applications for comprehensive tracking and analytics.",
+  "bugs": {
+    "url": "https://github.com/placedv/nebula/issues"
+  },
+  "homepage": "https://github.com/placedv/nebula#readme",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Sergio Casolari"
 }
